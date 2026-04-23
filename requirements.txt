@@ -1,1 +1,7 @@
-requests>=2.31
+elevenlabs
+pydub
+moviepy
+requests
+Pillow
+opencv-python
+numpy
